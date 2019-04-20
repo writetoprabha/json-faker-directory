@@ -1,0 +1,24 @@
+{
+    "profiles":[
+        {
+            "id" : 1,
+            "name" : "sid",
+            "age": 25
+        },
+        {
+            "id" : 2,
+            "name" : "John",
+            "age": 31            
+        },
+        {
+            "id" : 3,
+            "name" : "Tyler",
+            "age": 28            
+        },
+        {
+            "id" : 4,
+            "name" : "Jack",
+            "age": 20            
+        }
+    ]
+}
